@@ -86,25 +86,20 @@ THREADS=$(($(nproc)-2))
 Next, run this command:
 
 foldseek easy-cluster input pdbs sample/my _clusters tmp fs \
-
 --tmscore-threshold 0.6 \
-
 --alignment-type 1 \
-
 -s 9 \
-
 --threads $THREADS \
-
 --gpu 1
 
 These two parameters represent the sensitivity level and the filtering model used:
-\--alignment-type 1 \\ This is similar to the model category used; 2 is faster with minimal difference in results
-\--s 9 \\ Higher values increase sensitivity but slow down processing
-\--gpu 1 \\ Based on personal experience, this option doesn't seem to offer significant improvement
+--alignment-type 1 \ This is similar to the model category used; 2 is faster with minimal difference in results
+--s 9 \ Higher values increase sensitivity but slow down processing
+--gpu 1 \ Based on personal experience, this option doesn't seem to offer significant improvement
 
-For more details, refer to the official foldseek GitHub documentation.
+For more details, refer to the official [foldseek GitHub](https://github.com/steineggerlab/foldseek) documentation.
 
-Alternatively, visit for advice: https://zread.ai/steineggerlab/foldseek 
+Also, you can visit the page in [zread](https://zread.ai/steineggerlab/foldseek) for advice.
 
 
 ## **4. Parameter Description**
@@ -182,7 +177,7 @@ This work was carried out in the group of Professor [Li Zhe](https://faculty.sus
 
 
 Xing Zhenyan
-If you want, you may contact by [Email](mailto:zyxing05@gmail.com)
+For any quesions, you may contact by [Email](mailto:zyxing05@gmail.com)
 
 November 13, 2025
 Hong Kong
