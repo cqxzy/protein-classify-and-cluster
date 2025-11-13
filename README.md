@@ -8,7 +8,8 @@ Also, you may use it to reproduce the protein structure clustering method (TMali
 ## **1\. Introduction**
 
 This Python script provides an automated workflow for performing secondary structure analysis and hierarchical clustering on protein PDB files within a directory. This workflow reproduces the core clustering method described in the *Nature* paper ("Hallucination of closed repeat proteins containing central pockets").
-
+you can get pictures like:
+![the example](images/your-image.png)
 **Process Overview:**
 
 1. **Secondary Structure Analysis:** Traverse all PDB entries, compute their α-helix and β-sheet content, and perform coarse classification ("alpha", "beta", "alpha\_beta")  
