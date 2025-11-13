@@ -1,6 +1,7 @@
 # protein-classify-and-cluster
 A Python pipeline for protein structure clustering (PDBs) using all-vs-all TMalign, hierarchical analysis, and secondary structure classification.
 Also, you may use it to reproduce the protein structure clustering method (TMalign + Hierarchical) from the Nature paper "Hallucination of closed repeat proteins".
+
 本 Python 脚本  提供了一个自动化的流程，用于对一个目录下的蛋白质 PDB 文件进行二级结构分析和层次聚类。本流程复现了 Nature 论文 ("Hallucination of closed repeat proteins containing central pockets”) 中的核心聚类方法。
 你也可以看readme-ch.md作为中文指导
 
