@@ -101,7 +101,7 @@ These two parameters represent the sensitivity level and the filtering model use
 
 For more details, refer to the official [foldseek GitHub](https://github.com/steineggerlab/foldseek) documentation.
 
-Also, you can visit the page in [zread](https://zread.ai/steineggerlab/foldseek) for advice.
+Also, you can visit the page in [zread](https://zread.ai/steineggerlab/foldseek) and [deepwiki](https://deepwiki.com/steineggerlab/foldseek)for advice.
 
 
 ## **4. Parameter Description**
