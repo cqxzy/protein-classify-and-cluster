@@ -182,7 +182,7 @@ This work was carried out in the group of Professor [Li Zhe](https://faculty.sus
 
 
 Xing Zhenyan
-If you want, you may contact by [Email](zyxing05@gmail.com)
+If you want, you may contact by [Email](mailto:zyxing05@gmail.com)
 
 November 13, 2025
 Hong Kong
