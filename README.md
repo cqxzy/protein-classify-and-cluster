@@ -178,10 +178,11 @@ The current classification (`ss_summary` function) only considers the **proporti
 
 Given the author's limited expertise and rushed development timeline, this code and related documentation inevitably contain omissions and shortcomings.
 
-This work was carried out in the group of Professor Li Zhe at Southern University of Science and Technology.
+This work was carried out in the group of Professor [Li Zhe](https://faculty.sustech.edu.cn/?tagid=liz8&iscss=1&snapid=1&orderby=date&go=2) at [Southern University of Science and Technology](https://www.sustech.edu.cn/).
+
 
 Xing Zhenyan
-If you want, you may contact by: zyxing05@gmail.com
+If you want, you may contact by [Email](zyxing05@gmail.com)
 
 November 13, 2025
 Hong Kong
