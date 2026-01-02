@@ -25,13 +25,8 @@
 推荐使用 conda 创建一个独立的环境（为了实验方便，我建立了环境来去做这些事情，但是实际上只需要有了这些包，就可以直接用了，搭建环境这一步可以直接跳过）
 
 \# 1\. 创建并激活环境  
-conda create \-n protein\_cluster python=3.10  
-conda activate protein\_cluster
-
-\# 2\. 安装核心包  
-conda install \-c anaconda pandas numpy scipy scikit-learn  
-conda install \-c conda-forge matplotlib  
-conda install \-c bioconda biopython
+conda env create -f environment.yml
+conda activate protein_cluster
 
 ## **3\. 命令行使用**
 
