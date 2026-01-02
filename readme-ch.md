@@ -161,7 +161,7 @@ foldseek easy-cluster input pdbs sample/my \_clusters tmp fs \\
 * **位置：** select\_k\_from\_grid 和 run\_final\_clustering 函数 。  
 * **思路：** 脚本目前硬编码了 AgglomerativeClustering 并需要一个复杂的K值搜索。你可以将其替换为 HDBSCAN（一种更现代的、不需要预设K值的聚类算法），这会使“自动K值选择”部分变得更简单或不再需要。
 
-这项工作是在[南方科技大学](https://www.sustech.edu.cn/)生物医学工程系的[李喆](https://faculty.sustech.edu.cn/?tagid=liz8&iscss=1&snapid=1&orderby)教授的团队中完成的。
+这项工作是在[南方科技大学](https://www.sustech.edu.cn/)生物医学工程系的[李喆](https://www.sustech.edu.cn/zh/faculties/lizhe.html)教授的团队中完成的。
 鉴于作者水平有限，且开发时间仓促，本代码及相关说明文档难免存在疏漏与不足之处。
 
 幸桢炎 2025.11.13
