@@ -35,13 +35,8 @@ This script relies on a critical external bioinformatics tool:
 It is recommended to use conda to create an isolated environment (for convenience in experimentation, I set up an environment to perform these tasks; however, in practice, you only need to have these packages installed to proceed directly. The step of setting up an environment can be skipped).
 
 \# 1\. Create and activate the environment  
-conda create \-n protein\_cluster python=3.10  
-conda activate protein\_cluster
-
-\# 2\. Install core packages  
-conda install \-c anaconda pandas numpy scipy scikit-learn  
-conda install \-c conda-forge matplotlib  
-conda install \-c bioconda biopython
+conda env create -f environment.yml
+conda activate protein_cluster
 
 ## **3. Command Line Usage**
 
